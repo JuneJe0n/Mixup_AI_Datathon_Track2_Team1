@@ -63,13 +63,13 @@ UPSTAGE_API_KEY=your_actual_api_key_here
 
 Upstage API 키는 [https://console.upstage.ai/](https://console.upstage.ai/)에서 발급받을 수 있습니다.
 
-### 3. 데이터 준비
+<h3>3. 데이터 준비</h3>
 
-`data/train_dataset.csv` 파일을 준비합니다. 파일은 다음 컬럼을 포함해야 합니다:
+`data/train_dataset.csv` 파일을 준비합니다. 파일은 다음 컬럼을 반드시 포함해야 합니다:
 - `original_sentence`: 변환이 필요한 원문
 - `answer_sentence`: 변환된 현대어 문장 (평가 시 사용)
 
-### 4. 변환 문장 생성
+<h3> 4. 변환 문장 생성</h3>
 
 ```bash
 # 기본 실행
