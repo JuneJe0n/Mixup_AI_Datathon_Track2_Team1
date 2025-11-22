@@ -82,7 +82,7 @@ uv run python baseline_generate.py
 uv run python baseline_generate.py --input data/test_dataset.csv --output submission_300-400.csv --model solar-pro2
 ```
 
-**주요 파라미터 설명:**
+**parameter description:**
 - `--input`: 입력 CSV 파일 경로 (original_sentence, id 컬럼 필수)
 - `--output`: 출력 CSV 파일 경로
 - `--model`: Upstage API 모델 선택 (solar-pro2 권장)
