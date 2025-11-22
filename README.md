@@ -1,4 +1,6 @@
-# GTDH: 고전 한국어 현대어 변환 최적화 프로젝트
+<h1 align="center"> Language Modernization Promptathon</h1>
+[**Dohyeon Kim**](https://github.com/Dohyeon-Kim1) · [**Minsoo Kang**](https://github.com/Kongms002) · [**Junseok Kim**](https://github.com/koesnujmik) · [**Jiyoon Jeon**](https://github.com/JuneJe0n)
+
 
 고전 한국어(한문, 한글, 영어가 섞인 고문서)를 현대 한국어로 변환하는 AI 모델을 개발하는 프로젝트입니다. LLM as a Judge 평가 시스템을 겨냥하여 최적화된 프롬프트 엔지니어링 기법을 적용하였습니다.
 
