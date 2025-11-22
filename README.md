@@ -44,8 +44,7 @@ code/
 
 <h2> 🚀 빠른 시작 </h2>
 
-
-### 1. 환경 설정
+<h3>1. 환경 설정</h3>
 
 ```bash
 # uv 설치 (이미 설치되어 있다면 생략)
@@ -55,15 +54,14 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 uv sync
 ```
 
+<h3>2. API 키 설정</h3>
 
-### 2. API 키 설정
-
+```bash
 # .env 파일을 열어서 API 키 입력
-# UPSTAGE_API_KEY=your_actual_api_key_here
+UPSTAGE_API_KEY=your_actual_api_key_here
+```
 
 Upstage API 키는 [https://console.upstage.ai/](https://console.upstage.ai/)에서 발급받을 수 있습니다.
-
-> 💡 **팁**: `.env` 파일은 API 키 같은 민감한 정보를 저장하는 파일이므로 Git에 커밋되지 않도록 `.gitignore`에 포함되어 있습니다.
 
 ### 3. 데이터 준비
 
