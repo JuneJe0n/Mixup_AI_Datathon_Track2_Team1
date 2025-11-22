@@ -1,6 +1,10 @@
-# GTDH: 고전 한국어 현대어 변환 최적화 프로젝트
+<div align="center">
+<h1 > Language Modernization Promptathon</h1>
 
-고전 한국어(한문, 한글, 영어가 섞인 고문서)를 현대 한국어로 변환하는 AI 모델을 개발하는 프로젝트입니다. LLM as a Judge 평가 시스템을 겨냥하여 최적화된 프롬프트 엔지니어링 기법을 적용하였습니다.
+[**Dohyeon Kim**](https://github.com/Dohyeon-Kim1) · [**Minsoo Kang**](https://github.com/Kongms002) · [**Junseok Kim**](https://github.com/koesnujmik) · [**Jiyoon Jeon**](https://github.com/JuneJe0n)
+</div>
+
+이 프로젝트는 Solar Pro 2 API를 활용하여 오로지 프롬프트만으로 한문/한글/영어가 섞인 문장을 현대 문장으로 변환하는 프롬프톤입니다. 모델 튜닝이 아닌 프롬프트 엔지니어링만으로 교정 태스크를 해결하는 것이 목표입니다.
 
 ## 🎯 문제 정의
 
