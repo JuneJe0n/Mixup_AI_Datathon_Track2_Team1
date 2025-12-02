@@ -1,5 +1,5 @@
 <div align="center">
-<h1 > Language Modernization Promptathon: Team 프노인들 </h1>
+<h1 > Language Modernization Promptathon </h1>
 
 [**Dohyeon Kim**](https://github.com/Dohyeon-Kim1) · [**Minsoo Kang**](https://github.com/Kongms002) · [**Junseok Kim**](https://github.com/koesnujmik) · [**Jiyoon Jeon**](https://github.com/JuneJe0n)
 </div>
